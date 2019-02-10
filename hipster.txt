@@ -1,3 +1,5 @@
 This is the first line of text
-
+Inserted a line
 Second line
+Third line
+Fourth line after third has been staged
