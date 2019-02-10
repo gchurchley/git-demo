@@ -3,3 +3,4 @@ Inserted a line
 Second line
 Third line
 Fourth line after third has been staged
+Fifth line
